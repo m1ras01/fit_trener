@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fit_trener/static/css/main.62ee6e56.css",
-    "main.js": "/fit_trener/static/js/main.472d2164.js",
+    "main.js": "/fit_trener/static/js/main.d286bfc5.js",
     "static/media/hero_image.png": "/fit_trener/static/media/hero_image.e9bc52c73890721194fa.png",
     "static/media/t-image3.jpg": "/fit_trener/static/media/t-image3.ec76e51769a52915effa.jpg",
     "static/media/t-image2.jpg": "/fit_trener/static/media/t-image2.3fa6e04375bc3976c253.jpg",
@@ -15,10 +15,10 @@
     "static/media/hero_image_back.png": "/fit_trener/static/media/hero_image_back.9f54bfba33048f4ca688.png",
     "index.html": "/fit_trener/index.html",
     "main.62ee6e56.css.map": "/fit_trener/static/css/main.62ee6e56.css.map",
-    "main.472d2164.js.map": "/fit_trener/static/js/main.472d2164.js.map"
+    "main.d286bfc5.js.map": "/fit_trener/static/js/main.d286bfc5.js.map"
   },
   "entrypoints": [
     "static/css/main.62ee6e56.css",
-    "static/js/main.472d2164.js"
+    "static/js/main.d286bfc5.js"
   ]
 }

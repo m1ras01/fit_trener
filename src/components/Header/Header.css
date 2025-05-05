@@ -1,0 +1,55 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    width: 6rem;
+    height: 6rem;
+}
+
+.header-menu {
+    list-style: none;
+    display: flex;
+    gap: 2rem;
+    color: white;
+}
+
+.header-menu > li {
+    cursor: pointer;
+}
+
+.header-menu > li:hover {
+    cursor: pointer;
+    color: var(--orange);
+}
+
+.hero-text {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    text-transform: uppercase;
+    font-size: 4.5rem;
+    font-weight: bold;
+    color: white;
+    text-overflow: inherit;
+}
+
+@media screen and (max-width: 768px) {
+    .logo {
+        height: 4rem;
+        width: 4rem;
+    }
+
+    .header > :nth-child(2) {
+        position: fixed;
+        right: 2rem;
+        z-index: 99;
+    }
+
+    .header-menu {
+        flex-direction: column;
+        background-color: var(--appColor);
+        padding: 2rem;
+    }
+}

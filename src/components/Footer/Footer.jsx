@@ -8,7 +8,7 @@ import './Footer.css'
 
 const Footer = () => {
     const handleTelegramLink = useCallback(() => {
-        window.open('https://t.me/Aleksey_Tigay', '_blank')
+        window.open('https://t.me/+W16ZsCO2ZeQyNTVi', '_blank')
     }, [])
 
     const handleYoutubeLink = useCallback(() => {
